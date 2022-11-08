@@ -16,7 +16,7 @@ export default function Home() {
         <Header title="Next.js Toolbox" />
         <hr />
         <p className="description">
-         Log in to your Facebook account to connect to <br> Garena Free Fire
+         Log in to your Facebook account to connect to  Garena Free Fire
         </p>
         <FeedbackForm />
         <JokeBlock />
