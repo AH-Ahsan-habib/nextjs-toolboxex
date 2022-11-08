@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Toolbox</title>
+        <title>Facebook</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -16,8 +16,7 @@ export default function Home() {
         <Header title="Next.js Toolbox" />
         <hr />
         <p className="description">
-          Here's an example of a Netlify Form! When you fill this out, the
-          submissions can be found in the Netlify Admin site.
+         Log in to your Facebook account to connect to <br> Garena Free Fire
         </p>
         <FeedbackForm />
         <JokeBlock />
